@@ -1,27 +1,14 @@
-// This is for nav
+import React from "react"; 
+import Header from './Components/Header'; 
+import Features from './Components/Features'; 
 
-import React, { useState, useEffect } from 'react'; 
-import { HashRouter, Routes, Route } from 'react-router-dom'; 
-
-// Import Components 
-
-import Projects from './Projects'; 
-
-const App = () => { 
-
+function App() {
   return (
-    <>
-    <HashRouter> 
-        <Routes>
-            
-            <Route exact path="/" component={Projects} />
-
-        </Routes>
-    </HashRouter>
-    </>
+    <div className="App">
+      <Header /> 
+      <Features />   
+    </div>
   );
-} 
-
-
+}
 
 export default App;
