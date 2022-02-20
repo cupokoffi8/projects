@@ -56,6 +56,7 @@ function Features2(){
 
             <h3 id="subject">Duncker Diagram</h3>
             <img src={Duncker} className="img" />
+        
                 
             </div> 
         </div> 
