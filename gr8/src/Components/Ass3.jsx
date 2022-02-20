@@ -21,6 +21,8 @@ Goals:<br /> Effectively generate user perspectives based on their use of words 
 
 <h3 id="subject">Duncker Diagram</h3>
 <img src={Duncker} className="img" />
+        
+        <h3 id="subject">KT Analysis</h3>
                 
             </div> 
         </div> 
