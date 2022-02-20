@@ -59,6 +59,12 @@ function Features2(){
             |What can be expected|A functioning app to correctly display a reaction towards a product|An app that has a hundred percent guarantee of portraying the correct sentiment for every single product.|
 
             <br /> 
+            |Parameter |Is| Is Not|
+            |:----:|:----:|:----:|
+            |When did this problem arise|The need for sentiment analysis was always here ever since the developments for a market.|Since people always needed a way to see what others think of products or interests they like, a need for this is always present.|
+            |When must a solution be crated |Our sentiment analysis is needed when producers or consumers are unsure how a product is doing|Our solution is not needed when the producers or consumers are certain people will react a certain way|
+            <br />
+            
             <h3 id="subject">Duncker Diagram</h3>
             <img src={Duncker} className="img" />
         
