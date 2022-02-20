@@ -63,8 +63,29 @@ function Features2(){
             |:----:|:----:|:----:|
             |When did this problem arise|The need for sentiment analysis was always here ever since the developments for a market.|Since people always needed a way to see what others think of products or interests they like, a need for this is always present.|
             |When must a solution be crated |Our sentiment analysis is needed when producers or consumers are unsure how a product is doing|Our solution is not needed when the producers or consumers are certain people will react a certain way|
-            <br />
             
+            <br /> 
+            |Parameter |Is| Is Not|
+            |:----:|:----:|:----:|
+            |Where is the customer located?|English speaking countries|Countries without a sizable number of english speakers|
+            |Where is the equipment located?|New York/New Jersey area|Rest of the world|
+             <br /> 
+            |Parameter |Is| Is Not|
+            |:----:|:----:|:----:|
+            |Why is the problem important?|Users need to find out the public opinion of products/current events|Influencers need to check if they are still relevant|
+            |Why does the solution work?|Previous developers have laid the groundwork for better programs to be ran|Humans don’t manually analyze the data and claim it is done by software|
+            <br /> 
+            |Parameter |Is| Is Not|
+            |:----:|:----:|:----:|
+            |Who is the customer?|Corporations and consumers looking to analyze sentiments|Social media users (who are the ones being analyzed)|
+            |Who is the source of information?|Social media users and public API’s|Private social media accounts and private API’s|
+            <br /> 
+            |Parameter |Is| Is Not|
+            |:----:|:----:|:----:|
+            |How did the problem develop?|When researchers wanted to know more about people feel about products/current events and started looking into solutions|When social media users want to share their opinions/make a statement|
+            |How can a task be performed?|Using a program we developed|Using another person’s code|
+            <br />
+
             <h3 id="subject">Duncker Diagram</h3>
             <img src={Duncker} className="img" />
         
