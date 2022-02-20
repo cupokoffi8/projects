@@ -51,39 +51,55 @@ function Features2(){
                 or “dislike.” More complex data can be extremely difficult to interpret with traditional 
                 sentiment analysis. 
             </p>
-
-            <br /> 
+            <br />
+            <h3 id="subject">KT Analysis</h3>
+            <h id="topic">What</h>
+            <p id="description"> 
             |Parameter |Is| Is Not|
             |:----:|:----:|:----:|
             |What is known?|There is an inefficient way to analyze sentiment in the current market.|Do consumers and companies really need a new way to analyze sentiment?|
             |What can be expected|A functioning app to correctly display a reaction towards a product|An app that has a hundred percent guarantee of portraying the correct sentiment for every single product.|
-
-            <br /> 
+            </p>
+            <br />
+            <h id="topic">When</h> 
+            <p id="description"> 
             |Parameter |Is| Is Not|
             |:----:|:----:|:----:|
             |When did this problem arise|The need for sentiment analysis was always here ever since the developments for a market.|Since people always needed a way to see what others think of products or interests they like, a need for this is always present.|
             |When must a solution be crated |Our sentiment analysis is needed when producers or consumers are unsure how a product is doing|Our solution is not needed when the producers or consumers are certain people will react a certain way|
-            
-            <br /> 
+            </p>
+            <br />
+            <h id="topic">Where</h>
+            <p id="description"> 
             |Parameter |Is| Is Not|
             |:----:|:----:|:----:|
             |Where is the customer located?|English speaking countries|Countries without a sizable number of english speakers|
             |Where is the equipment located?|New York/New Jersey area|Rest of the world|
-             <br /> 
+            </p>
+            <br /> 
+            <h id="topic">Why</h>
+            <p id="description"> 
             |Parameter |Is| Is Not|
             |:----:|:----:|:----:|
             |Why is the problem important?|Users need to find out the public opinion of products/current events|Influencers need to check if they are still relevant|
             |Why does the solution work?|Previous developers have laid the groundwork for better programs to be ran|Humans don’t manually analyze the data and claim it is done by software|
-            <br /> 
+            </p>
+            <br />
+            <h id="topic">Who</h> 
+            <p id="description"> 
             |Parameter |Is| Is Not|
             |:----:|:----:|:----:|
             |Who is the customer?|Corporations and consumers looking to analyze sentiments|Social media users (who are the ones being analyzed)|
             |Who is the source of information?|Social media users and public API’s|Private social media accounts and private API’s|
-            <br /> 
+            </p>
+            <br />
+            <h id="topic">How</h>
+            <p id="description">  
             |Parameter |Is| Is Not|
             |:----:|:----:|:----:|
             |How did the problem develop?|When researchers wanted to know more about people feel about products/current events and started looking into solutions|When social media users want to share their opinions/make a statement|
             |How can a task be performed?|Using a program we developed|Using another person’s code|
+            </p>
             <br />
 
             <h3 id="subject">Duncker Diagram</h3>
