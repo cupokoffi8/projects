@@ -12,11 +12,26 @@ function Features(){
             <br /> 
 
             <h3 id="subject">Overview: </h3>
-            <p id="description">The group intends to look into sentiment analysis to gauge public opinion on current events. Specifically the group wishes to use the twitter and facebook API to discern how people feel about topics such as the 2022 winter olympics, Russia/Ukraine conflict, and trucker blockade. Companies could also use this information to make or alter major decisions. Recently many gaming companies and celebrities have announced their support for NFTs before retracting these statements. Movie studios could find out whether their advertisements have left a positive or negative impact on their target demographics. Consumers could find out how other people feel about a certain brand when deciding whether or not to buy a product. The possibilities for a well designed sentiment analysis application are nearly limitless.
+            <p id="description">
+                The group intends to look into sentiment analysis to gauge public opinion on current events. 
+                Specifically the group wishes to use the twitter and facebook API to discern how people feel about topics such 
+                as the 2022 winter olympics, Russia/Ukraine conflict, and trucker blockade. Companies could also use this information 
+                to make or alter major decisions. Recently many gaming companies and celebrities have announced their support for NFTs 
+                before retracting these statements. Movie studios could find out whether their advertisements have left a positive 
+                or negative impact on their target demographics. Consumers could find out how other people feel about a certain 
+                brand when deciding whether or not to buy a product. The possibilities for a well designed sentiment analysis application 
+                are nearly limitless.
             </p>
 
                 <h3 id="subject">Objective: </h3>
-                <p id="description">This can allow the feelings of the general public regarding a specific topic to be easily exposed, allowing for a simple method of determining how invested they are in the subject, and what actions would best suit their perspectives. This kind of software would be very useful to big companies, such as Netflix, movie studios,etc in order to have a better gauge of how their products are doing; instead of searching through surveys and multiple other sites. In addition to this, regular people rarely buy an item without first reading reviews, oftentimes to get the best reviews or opinions on different matters they would have to search on different sites. Our objective is therefore to make a simple solution to make all of these sentimental values in one space and easy to use. 
+                <p id="description">
+                    This can allow the feelings of the general public regarding a specific topic to be easily exposed, allowing for 
+                    a simple method of determining how invested they are in the subject, and what actions would best suit their perspectives. 
+                    This kind of software would be very useful to big companies, such as Netflix, movie studios, etc. in order to have a better
+                     gauge of how their products are doing; instead of searching through surveys and multiple other sites. In addition to this, 
+                     regular people rarely buy an item without first reading reviews, oftentimes to get the best reviews or opinions on 
+                     different matters they would have to search on different sites. Our objective is therefore to make a simple solution to 
+                     make all of these sentimental values in one space and easy to use. 
                 </p>
 
                 <h3 id="subject">Background: </h3>
