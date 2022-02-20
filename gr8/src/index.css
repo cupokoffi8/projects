@@ -314,11 +314,25 @@ nav .menu-icon .nav-icon{
     color: black;
   }
 
+  #title2 {
+    color: rgb(184, 52, 52);
+  }
+
   #subject {
     color:rgb(0, 0, 0); 
     display: flex; 
     justify-content: left; 
     font-size: 26px;
+  }
+
+  #topic {
+    color:rgb(0, 0, 0) !important; 
+    display: flex !important; 
+    justify-content: left !important; 
+    font-size: 18px !important; 
+    text-decoration: underline;
+    font-weight: bold; 
+    margin-bottom: -5px;
   }
 
   #description {
@@ -328,14 +342,33 @@ nav .menu-icon .nav-icon{
     font-size: 18px;
     text-align: left;
   }
+
+  #description-list {
+    color:rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: left; 
+    font-size: 18px;
+    text-align: left;
+    margin-left: 10px; 
+  }
+
+  #description-note {
+    color:rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: left; 
+    font-size: 18px;
+    text-align: left;
+    margin-left: 10px;
+    font-weight: 500;
+  }
   
   .features-text{
-    text-align: center; 
+    text-align: center;
     width: 70%;
-    color: #fff;
+    color: rgb(0, 0, 0);
     list-style: circle;
   }
-  .features-text h2{
+  /* .features-text h2{
   font-size: 2rem;
   color:#ffffff; 
   font-weight: 400;
@@ -343,8 +376,8 @@ nav .menu-icon .nav-icon{
   .features-text h2{
   margin: 0px;
   padding: 0px;
-  }
-  .features-text h3{
+  } */
+  /* .features-text h3{
     font-size: 2rem;
     color:#ffffff; 
     font-weight: bold;
@@ -352,25 +385,16 @@ nav .menu-icon .nav-icon{
     .features-text h3{
     margin: 0px;
     padding: 0px;
-    }
-  .features-text p{
+    } */
+  /* .features-text p{
   font-size: 1.2rem;
   color:#ffffffcc; 
-  }
-  .features-text a{
+  } */
+  /* .features-text a{
     display: flex;
     justify-content: center; 
-    }
-  .features-text button{
-    margin-top: 20px;
-  width: 140px;
-  height: 40px;
-  border-radius: 10px;
-  border: none;
-    outline: none;
-    color: #000266;
-  background-color:#d0ff00;
-  }
+    } */
+  
   .features-text button:hover{
   background-color: #ffffff;
     transition: all ease 0.3s;
