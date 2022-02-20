@@ -53,7 +53,12 @@ function Features2(){
             </p>
 
             <br /> 
+            |Parameter |Is| Is Not|
+            |:----:|:----:|:----:|
+            |What is known?|There is an inefficient way to analyze sentiment in the current market.|Do consumers and companies really need a new way to analyze sentiment?|
+            |What can be expected|A functioning app to correctly display a reaction towards a product|An app that has a hundred percent guarantee of portraying the correct sentiment for every single product.|
 
+            <br /> 
             <h3 id="subject">Duncker Diagram</h3>
             <img src={Duncker} className="img" />
         
