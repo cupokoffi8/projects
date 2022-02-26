@@ -38,6 +38,23 @@ function Features3(){
                 </p>
             <br /> 
 
+            <h3 id="subject">Design Objectives:</h3>
+            <p id="description-list">
+                •
+                </p>
+            <br /> 
+
+            <h3 id="subject">Attributes:</h3>
+            <p id="description-list">
+                •
+                </p>
+            <br /> 
+
+            <h3 id="subject">Paths to Avoid:</h3>
+            <p id="description-list">
+                •
+                </p>
+            <br /> 
            
 
             <br /> 
