@@ -16,6 +16,7 @@ function Navbar(){
                     <li><a href='http://cupokoffi8.github.io/the-website' className='active'>Home</a></li>
                     <li><Link to='features' className='active' smooth={true} duration={1000}>Needs Assessment</Link></li> 
                     <li><Link to='features2' className='active' smooth={true} duration={1000}>Problem Formulation</Link></li>
+                    <li><Link to='features3' className='active' smooth={true} duration={1000}>Solution Development</Link></li>
                 </ul>
             </nav>
         </>
