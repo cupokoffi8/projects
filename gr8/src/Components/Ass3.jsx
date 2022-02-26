@@ -13,7 +13,6 @@ function Features2(){
         <div className='features-text'>
             <h1 id="title">Assignment 3: Problem Formulation</h1> 
             <hr className="divider" /> 
-            <h2 id="title2">Sentiment Analysis</h2>
 
             <br /> 
 

@@ -6,10 +6,14 @@ function Features3(){
         <div className='features-text'>
             <h1 id="title">Assignment 4: Solution Development</h1> 
             <hr className="divider" /> 
-            <h2 id="title2">Sentiment Analysis</h2>
+            
+            <br /> 
 
             <h3 id="subject">Proposed Solution: "Pathosense," The Software that Understands Emotions</h3>
-            
+            <h id="topic">Proposed Solution: "Pathosense," The Software that Understands Emotions</h>
+            <p id="description-list">
+                •Compiler that can be used to create and edit code over time
+                </p>
             <br /> 
 
             <h id="topic">Requirements:</h>
