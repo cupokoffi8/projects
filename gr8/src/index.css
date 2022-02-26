@@ -318,6 +318,14 @@ nav .menu-icon .nav-icon{
     background-color: #dadada4d;
     }
 
+    #features3{
+      /* margin-top:140px ; */
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      background-color: #dadada4d;
+      }
+
   #title {
     color: black;
   }
