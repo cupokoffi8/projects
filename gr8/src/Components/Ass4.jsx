@@ -9,7 +9,7 @@ function Features3(){
             
             <br /> 
 
-            <h3 id="subject">Proposed Solution: "Pathosense," The Software that Understands Emotions</h3>
+            <h3 id="subject">Proposed Solution:</h3>
             <h id="topic">Proposed Solution: "Pathosense," The Software that Understands Emotions</h>
             <p id="description-list">
                 •Compiler that can be used to create and edit code over time
