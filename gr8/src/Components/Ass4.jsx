@@ -26,6 +26,18 @@ function Features3(){
 
             <br /> 
 
+            <h3 id="subject">Design Approach:</h3>
+            <p id="description-list">
+                •Begin by becoming more familiar with Python IDE's<br /> 
+                •Create a test software that can read text from a specific source<br /> 
+                •Fabricate a database where information can be stored and read from<br /> 
+                •Connect the database with a software that can be used to submit information<br /> 
+                •Work with Python to implement web scraping<br /> 
+                •Implement an algorithm that analyzes text submitted to the database<br /> 
+                •Program a method that depicts emotions based on language used in database submissions 
+                </p>
+            <br /> 
+
            
 
             <br /> 
