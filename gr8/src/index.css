@@ -327,10 +327,12 @@ nav .menu-icon .nav-icon{
       } 
 
       .blink_me {
-        font-size: 1.2em;
+        font-size: 1em;
         text-transform: uppercase; 
+        text-decoration: none; 
+        text-align: center;
         color: red; 
-        animation: blinker 1.5s linear infinite;
+        animation: blinker 2.5s linear infinite;
       }
       
       @keyframes blinker {

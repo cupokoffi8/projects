@@ -10,7 +10,7 @@ function Features3(){
             <br /> 
 
             <h3 id="subject">Solution:</h3>
-            <h id="topic">Proposed Solution: "<span className="blink_me">Pathosense</span>," The Software that Understands Emotions</h>
+            <h id="topic">Proposed Solution: "<span className="blink_me">Pathosense</span>" The Software that Understands Emotions</h>
             <p id="description-list">
                 • Compiler that can be used to create and edit code over time
                 </p>
