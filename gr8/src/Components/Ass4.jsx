@@ -61,13 +61,13 @@ function Features3(){
 
             <h3 id="subject">Paths to Avoid:</h3>
             <p id="description-list">
-            • Manually analyzing the given data as the program should be automatic.
-            • Creating an app version as the program should only work in the web browser.
-            • Neglecting to create a satisfying minimum viable product.
-            • Cluttering the webpage with intrusive advertisements.
-            • Not updating the code frequently enough.
-            • Underestimating how much it would cost to develop the program and host the webpage.
-            • Ignoring customer feedback and criticism.
+            • Manually analyzing the given data as the program should be automatic.<br />
+            • Creating an app version as the program should only work in the web browser.<br />
+            • Neglecting to create a satisfying minimum viable product.<br />
+            • Cluttering the webpage with intrusive advertisements.<br />
+            • Not updating the code frequently enough.<br />
+            • Underestimating how much it would cost to develop the program and host the webpage.<br />
+            • Ignoring customer feedback and criticism.<br />
 
                 </p>
             <br /> 
