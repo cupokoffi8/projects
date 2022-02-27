@@ -40,13 +40,25 @@ function Features3(){
 
             <h3 id="subject">Design Objectives:</h3>
             <p id="description-list">
-                •
+                • Make our software very intuitive and easy to use in order for people of all ages and backgrounds to use it<br />
+                • Enable users to change and customize the software in anyway that they want to find the best results  <br />
+                • Efficiently produce outputs based on huge datasets that would not slow down the users machine alot <br />
+                • Correctly output results based on real world data using our designed algorithms <br />
+                
+            
+            
                 </p>
             <br /> 
 
             <h3 id="subject">Attributes:</h3>
             <p id="description-list">
-                •
+            •Reliably display the correct information that the customer requestes from the software <br />
+            •Make the software easy to scale to make it possible for hundreds or more users to use it at the same time, while still being efficient  <br />
+            •The software should have good portability to be used on any operating system and device<br />
+            •The users should be able to resue the software in many differt ways and applications <br />
+            •Reliably display the correct information that the customer requests from the software <br />
+
+            
                 </p>
             <br /> 
 
