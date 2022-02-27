@@ -1,21 +1,21 @@
 {
-  "files": {
-    "main.css": "/projects/static/css/main.13e106cd.css",
-    "main.js": "/projects/static/js/main.f06a6dd7.js",
-    "static/media/Image.jpg": "/projects/static/media/Image.8b8cfb36ffe6e73d20ff.jpg",
-    "static/media/when.jpeg": "/projects/static/media/when.f8bc29220e928e10952f.jpeg",
-    "static/media/what.jpeg": "/projects/static/media/what.fb9feac85678328ea766.jpeg",
-    "static/media/why.jpg": "/projects/static/media/why.e2c59adaf79d54fdde90.jpg",
-    "static/media/how.jpg": "/projects/static/media/how.06caf360455e91d407c8.jpg",
-    "static/media/where.jpg": "/projects/static/media/where.2c2928494f69ee5067ad.jpg",
-    "static/media/who.jpg": "/projects/static/media/who.599df5a8cc9e19725532.jpg",
-    "static/media/uh.jpeg": "/projects/static/media/uh.f8d792d91020516f50c9.jpeg",
-    "index.html": "/projects/index.html",
-    "main.13e106cd.css.map": "/projects/static/css/main.13e106cd.css.map",
-    "main.f06a6dd7.js.map": "/projects/static/js/main.f06a6dd7.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.13e106cd.css",
-    "static/js/main.f06a6dd7.js"
-  ]
+  "main.css": "/projects/static/css/main.31762732.chunk.css",
+  "main.js": "/projects/static/js/main.ba128c55.chunk.js",
+  "main.js.map": "/projects/static/js/main.ba128c55.chunk.js.map",
+  "static/js/1.ee1728a1.chunk.js": "/projects/static/js/1.ee1728a1.chunk.js",
+  "static/js/1.ee1728a1.chunk.js.map": "/projects/static/js/1.ee1728a1.chunk.js.map",
+  "runtime~main.js": "/projects/static/js/runtime~main.c277769b.js",
+  "runtime~main.js.map": "/projects/static/js/runtime~main.c277769b.js.map",
+  "static/media/Image.jpg": "/projects/static/media/Image.c38bb44c.jpg",
+  "static/media/what.jpeg": "/projects/static/media/what.a1c5c25e.jpeg",
+  "static/media/when.jpeg": "/projects/static/media/when.7794202c.jpeg",
+  "static/media/where.jpg": "/projects/static/media/where.33606504.jpg",
+  "static/media/why.jpg": "/projects/static/media/why.e06ffb5d.jpg",
+  "static/media/who.jpg": "/projects/static/media/who.18caa8d1.jpg",
+  "static/media/how.jpg": "/projects/static/media/how.5f9226d7.jpg",
+  "static/media/index.css": "/projects/static/media/uh.61a04e86.jpeg",
+  "static/css/main.31762732.chunk.css.map": "/projects/static/css/main.31762732.chunk.css.map",
+  "index.html": "/projects/index.html",
+  "precache-manifest.09ee42651f1380367a8ceacfccfc008c.js": "/projects/precache-manifest.09ee42651f1380367a8ceacfccfc008c.js",
+  "service-worker.js": "/projects/service-worker.js"
 }
