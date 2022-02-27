@@ -36,10 +36,10 @@ function Features2(){
 
             <h id="topic">Existing Software:</h>
             <p id="description-list">
-                •Awar.io<br />
-                •Brandwatch<br />
-                •Lexalytics<br />
-                •Hootsuite Insights
+                • Awar.io<br />
+                • Brandwatch<br />
+                • Lexalytics<br />
+                • Hootsuite Insights
                 </p>
             <p id="description-note">
                 All of these softwares are mainly focused on analyzing customer opinions on products and competition for a 

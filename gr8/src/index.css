@@ -324,7 +324,20 @@ nav .menu-icon .nav-icon{
       display: flex;
       justify-content: center;
       background-color: #dadada4d;
+      } 
+
+      .blink_me {
+        font-size: 1.2em;
+        text-transform: uppercase; 
+        color: red; 
+        animation: blinker 1.5s linear infinite;
       }
+      
+      @keyframes blinker {
+        50% {
+          color: yellow; 
+        }
+      } 
 
   #title {
     color: black;
