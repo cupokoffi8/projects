@@ -330,7 +330,6 @@ nav .menu-icon .nav-icon{
         font-size: 1em;
         text-transform: uppercase; 
         text-decoration: none; 
-        text-align: center;
         color: red; 
         animation: blinker 2.5s linear infinite;
       }
@@ -360,11 +359,39 @@ nav .menu-icon .nav-icon{
     color:rgb(0, 0, 0) !important; 
     display: flex !important; 
     justify-content: left !important; 
+    text-align: left;
     font-size: 18px !important; 
     text-decoration: underline;
     font-weight: bold; 
     margin-bottom: -5px;
   }
+
+  #topic2 {
+    display: flex !important; 
+    justify-content: left !important; 
+    font-size: 18.5px !important; 
+    text-align: left; 
+    font-weight: bold; 
+    color: #da3a3a; 
+    animation: blinker 2.5s linear infinite !important;
+      }
+      
+      @keyframes blinker {
+        50% {
+          color: yellow; 
+        }
+      }
+
+      #topic3 {
+        color: #da3a3a !important; 
+        display: flex !important; 
+        justify-content: left !important; 
+        text-align: left;
+        font-size: 16.5px !important; 
+        text-decoration: none;
+        font-weight: bolder; 
+        margin-bottom: -5px;
+      }
 
   #description {
     color:rgb(0, 0, 0); 
