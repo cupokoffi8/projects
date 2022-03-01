@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projects/static/css/main.a1a4ae04.css",
-    "main.js": "/projects/static/js/main.d13e74d0.js",
+    "main.css": "/projects/static/css/main.b7df8aa2.css",
+    "main.js": "/projects/static/js/main.1a866a39.js",
     "static/media/Image.jpg": "/projects/static/media/Image.8b8cfb36ffe6e73d20ff.jpg",
     "static/media/when.jpeg": "/projects/static/media/when.f8bc29220e928e10952f.jpeg",
     "static/media/what.jpeg": "/projects/static/media/what.fb9feac85678328ea766.jpeg",
@@ -11,12 +11,13 @@
     "static/media/who.jpg": "/projects/static/media/who.599df5a8cc9e19725532.jpg",
     "static/media/uh.jpeg": "/projects/static/media/uh.f8d792d91020516f50c9.jpeg",
     "static/media/Pathosense.jpg": "/projects/static/media/Pathosense.56494f905ea09f743d92.jpg",
+    "static/media/Pathosense-Bar.png": "/projects/static/media/Pathosense-Bar.4c35052a4159e794e42d.png",
     "index.html": "/projects/index.html",
-    "main.a1a4ae04.css.map": "/projects/static/css/main.a1a4ae04.css.map",
-    "main.d13e74d0.js.map": "/projects/static/js/main.d13e74d0.js.map"
+    "main.b7df8aa2.css.map": "/projects/static/css/main.b7df8aa2.css.map",
+    "main.1a866a39.js.map": "/projects/static/js/main.1a866a39.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1a4ae04.css",
-    "static/js/main.d13e74d0.js"
+    "static/css/main.b7df8aa2.css",
+    "static/js/main.1a866a39.js"
   ]
 }
