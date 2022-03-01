@@ -1,10 +1,11 @@
 import React from "react"; 
+import img from "../Images/Pathosense.jpg"; 
 
 function Features3(){
     return(
         <div id="features3"> 
         <div className='features-text'>
-            <h1 id="title">Assignment 4: Solution Development</h1> 
+            <h1 id="title">Solution Development</h1> 
             <hr className="divider" /> 
             
             <br /> 
@@ -16,6 +17,7 @@ function Features3(){
 
             <h id="topic">Requirements:</h>
             <p id="description-list">
+                The Pathosense software shall utilize the following - <br /> 
                 • Compiler that can be used to create and edit code over time<br />
                 • Database where information can be effetively read from<br />
                 • Efficient algorithm that can allow for fast web scraping<br />

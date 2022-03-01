@@ -5,7 +5,7 @@ function Features(){
         <div id="features"> 
         <div className='features-text'>
             <br /> 
-            <h1 id="title">Assignment 2: Needs Assessment</h1> 
+            <h1 id="title">Needs Assessment</h1> 
             <hr className="divider" /> 
             <h2 id="title2">Sentiment Analysis</h2> 
 

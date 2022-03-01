@@ -11,7 +11,7 @@ function Features2(){
     return(
         <div id="features2"> 
         <div className='features-text'>
-            <h1 id="title">Assignment 3: Problem Formulation</h1> 
+            <h1 id="title">Problem Formulation</h1> 
             <hr className="divider" /> 
 
             <br /> 
