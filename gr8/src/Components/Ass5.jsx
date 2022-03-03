@@ -32,7 +32,11 @@ function Features4(){
             <h3 id="subject">Patents</h3> 
 
             <p id="description">
-            
+            A patent is of essence in the scenario that we qualify our software's architecture as 
+            a unique, transformative design that is noticeably dissimilar to competitors. <br /> 
+            <br /> 
+            With Pathosense, it would be ideal to acquire a patent for our source code, assuming its functionality 
+            acheives a unique status that allows it to outshine its competitors. 
             </p> 
 
             <br /> 
