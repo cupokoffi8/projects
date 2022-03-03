@@ -36,7 +36,14 @@ function Features4(){
             a unique, transformative design that is noticeably dissimilar to competitors. <br /> 
             <br /> 
             With Pathosense, it would be ideal to acquire a patent for our source code, assuming its functionality 
-            acheives a unique status that allows it to outshine its competitors. 
+            acheives a unique status that allows it to outshine its competitors. As such, it would provide legal protection 
+            over our design, preventing extraneous sources from blatantly copying our work. 
+            </p> 
+
+            <h id="topic">Pricing:</h> 
+            <p id="description">
+            According to LegalZoom, a patent can cost upwards of $199. Typically, it requires the involvement of a lawyer or 
+            equivalent representative. 
             </p> 
 
             <br /> 
