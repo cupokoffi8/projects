@@ -10,12 +10,32 @@ function Features4(){
             
             <br /> 
 
-            <h3 id="subject">Our Logo:</h3>
+            <h3 id="subject">Trademarks</h3> 
+
+            <p id="description">
+            When working with a unique software like Pathosense, a Trademark would be ideal when it 
+            comes to protecting a design or logo that differentiates our products from others in 
+            the same industry. <br /> 
+            <br />
+            A notable feature that should be trademarked would be our company logo. This is because 
+            it can be marked on various items to signify them as being under our brand. An example of 
+            this is a pen with a company's logo on it. While that company may not manufacture pens, 
+            the fact that their logo is on it associates it with that brand. 
+            </p> 
+
+            <h id="topic">Pathosense Logo:</h>
+            <br /> 
             <img className="img3" src={img} /> 
 
             <br /> 
 
+            <h3 id="subject">Patents</h3> 
+
+            <p id="description">
             
+            </p> 
+
+            <br /> 
 
             <hr /> 
         
