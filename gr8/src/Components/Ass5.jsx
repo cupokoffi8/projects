@@ -14,13 +14,13 @@ function Features4(){
 
             <p id="description">
             When working with a unique software like Pathosense, a Trademark would be ideal when it 
-            comes to protecting a design or logo that differentiates our products from others in 
+            comes to protecting a name or logo that differentiates our products from others in 
             the same industry. <br /> 
             <br />
-            A notable feature that should be trademarked would be our company logo. This is because 
-            it can be marked on various items to signify them as being under our brand. An example of 
-            this is a pen with a company's logo on it. While that company may not manufacture pens, 
-            the fact that their logo is on it associates it with that brand. 
+            A notable feature that should be trademarked would be our product name and logo. This is 
+            because it can be marked on various items to signify them as being under our brand. An 
+            example of this is a pen with a company's logo on it. While that company may not manufacture 
+            pens, the fact that their logo is on it associates it with that brand. 
             </p> 
 
             <h id="topic">Pathosense Logo:</h>
@@ -36,8 +36,8 @@ function Features4(){
             a unique, transformative design that is noticeably dissimilar to competitors. <br /> 
             <br /> 
             With Pathosense, it would be ideal to acquire a patent for our source code, assuming its functionality 
-            acheives a unique status that allows it to outshine its competitors. As such, it would provide legal protection 
-            over our design, preventing extraneous sources from blatantly copying our work. 
+            acheives a unique status that allows it to outshine its competitors. As such, it would provide legal 
+            protection over our design, preventing extraneous sources from blatantly copying our work. 
             </p> 
 
             <h id="topic">Pricing:</h> 
