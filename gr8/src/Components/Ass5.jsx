@@ -20,8 +20,12 @@ function Features4(){
             A notable feature that should be trademarked would be our product name and logo. This is 
             because it can be marked on various items to signify them as being under our brand. An 
             example of this is a pen with a company's logo on it. While that company may not manufacture 
-            pens, the fact that their logo is on it associates it with that brand. 
-            </p> 
+            pens, the fact that their logo is on it associates it with that brand.<br /> 
+            <br /> 
+            According to the United States Patent and Trademark Organization, there are no existing or 
+            previously existing trademarks for the name "Pathosense." When searching with the keyword 
+            "Sentiment Analysis," 80 unique trademarks are found. 
+             </p> 
 
             <h id="topic">Pathosense Logo:</h>
             <br /> 
