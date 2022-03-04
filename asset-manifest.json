@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projects/static/css/main.27f9f709.css",
-    "main.js": "/projects/static/js/main.c3682c51.js",
+    "main.css": "/projects/static/css/main.08a4c1d7.css",
+    "main.js": "/projects/static/js/main.9210e612.js",
     "static/media/Image.jpg": "/projects/static/media/Image.8b8cfb36ffe6e73d20ff.jpg",
     "static/media/when.jpeg": "/projects/static/media/when.f8bc29220e928e10952f.jpeg",
     "static/media/what.jpeg": "/projects/static/media/what.fb9feac85678328ea766.jpeg",
@@ -13,11 +13,11 @@
     "static/media/Pathosense.jpg": "/projects/static/media/Pathosense.56494f905ea09f743d92.jpg",
     "static/media/Pathosense-Bar.png": "/projects/static/media/Pathosense-Bar.4c35052a4159e794e42d.png",
     "index.html": "/projects/index.html",
-    "main.27f9f709.css.map": "/projects/static/css/main.27f9f709.css.map",
-    "main.c3682c51.js.map": "/projects/static/js/main.c3682c51.js.map"
+    "main.08a4c1d7.css.map": "/projects/static/css/main.08a4c1d7.css.map",
+    "main.9210e612.js.map": "/projects/static/js/main.9210e612.js.map"
   },
   "entrypoints": [
-    "static/css/main.27f9f709.css",
-    "static/js/main.c3682c51.js"
+    "static/css/main.08a4c1d7.css",
+    "static/js/main.9210e612.js"
   ]
 }
