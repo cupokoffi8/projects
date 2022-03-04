@@ -400,7 +400,11 @@ nav .menu-icon .nav-icon{
   }
 
   #topic2 {
+    padding: 10px !important;  
     display: flex !important; 
+    width: fit-content !important; 
+    background: #212529 !important; 
+    border-radius: 10px !important; 
     justify-content: left !important; 
     font-size: 18.5px !important; 
     text-align: left; 
