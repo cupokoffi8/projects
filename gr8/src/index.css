@@ -61,6 +61,19 @@ body{
   margin-left: 100px !important;
   width: 200px !important;  
 }
+.link {
+  display: block;
+  text-decoration: none;
+  text-align: left;
+  color: #da3a3a;
+  padding: 5px; 
+}
+.link:hover {
+  width:fit-content;
+  color: #fff; 
+  border-radius: 5px; 
+  background: #da3a3a;
+}
 .menu li{
     width:100%;
 }

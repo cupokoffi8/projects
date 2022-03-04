@@ -50,6 +50,17 @@ function Features4(){
             equivalent representative. 
             </p> 
 
+            <h id="topic">Related Patents:</h> 
+            <br /> 
+            <a href="https://patents.google.com/patent/US9208502B2/en" 
+            className="link">
+            US9208502B2: Sentiment Analysis Using Video/Audio Data
+            </a> 
+            <a href="https://patents.google.com/patent/US10558751B2/en?q=~patent%2fUS9208502B2" 
+            className="link">
+            US10558751B2: Webscraping and Finding Specific Keywords
+            </a> 
+
             <br /> 
 
             <hr /> 
