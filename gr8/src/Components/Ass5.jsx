@@ -62,6 +62,15 @@ function Features4(){
             </a> 
 
             <br /> 
+            <h3 id="subject"> Copyrights</h3>
+            
+            <p id="description">
+            Copyright laws are essential to protecting the rights of software developers and the companies they work for. The source code this group develops will be wholly original and protected from use by other parties once we file a claim.  <br /> 
+            <br />
+            According to www.copyright.gov/records, the keyword sentiment analysis has over 10,000 results. The application titles range from “Sentiment Analysis for PTSD Signals” to “Stakeholder and sentiment analysis in web forums.” The description for sentiment analysis copyrights generally under “Computer text data” and “Electronic file (eService).” Other important information to include when filing a copyright claim include type of work, nation of first publication, rights and permissions, date of creation and date of publication. 
+            </p>
+            <br />
+
 
             <hr /> 
         
