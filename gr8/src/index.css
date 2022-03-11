@@ -335,6 +335,22 @@ nav .menu-icon .nav-icon{
     border-style: solid !important;
   } 
 
+  .the-imgs {
+    display: flex; 
+    justify-content: center !important;
+    justify-content: space-evenly !important;
+    margin-left: auto; 
+    margin-right: auto; 
+} 
+
+#img-ab {
+  display: inline-block; 
+  justify-content: space-evenly; 
+  width: 25vw; 
+  height: auto; 
+  margin-top: 10px; 
+}
+
   #features2{
     /* margin-top:140px ; */
     width: 100%;
@@ -358,6 +374,14 @@ nav .menu-icon .nav-icon{
         justify-content: center;
         background-color: #dadada4d;
         } 
+
+        #features5{
+          /* margin-top:140px ; */
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          background-color: #dadada4d;
+          } 
 
       .blink_me {
         font-size: 1em;
@@ -586,4 +610,20 @@ nav .menu-icon .nav-icon{
       color: #ffffff;
     } 
     
+  }
+
+  @media(max-width:900px){
+
+    #img-ab {
+      display: block; 
+      width: 60vw; 
+      height: auto; 
+      margin-top: 20px; 
+    }
+    .the-imgs {
+      display: flex;
+      justify-content: center; 
+      flex-direction: column; 
+    }
+
   }
