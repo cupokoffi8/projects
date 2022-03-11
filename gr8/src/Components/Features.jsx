@@ -9,7 +9,8 @@ function Features(){
             <hr className="divider" /> 
             <h2 id="title2">Sentiment Analysis</h2> 
 
-            <br /> 
+          <br />
+          
 
             <h3 id="subject">Overview: </h3>
             <p id="description">
