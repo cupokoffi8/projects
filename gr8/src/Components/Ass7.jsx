@@ -1,5 +1,5 @@
 import React from "react"; 
-import img1 from "../Images/Morph/morph.png"; 
+import img1 from "../Images/Morph/new-morph.png"; 
 
 function Features6(){
     return(
