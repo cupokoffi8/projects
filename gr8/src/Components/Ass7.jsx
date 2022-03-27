@@ -22,7 +22,7 @@ function Features6(){
              <p id="description">
             The Morphological Chart below effectively lays out the most important characteristics of our 
             software, and allows us to rennovate our initial solution development process based on changes 
-            and experiences gained through the inevitable passage time and subsequent effort conducted by 
+            and experiences gained through the inevitable passage of time and subsequent effort conducted by 
             our team. 
              </p>
 
