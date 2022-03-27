@@ -19,6 +19,13 @@ function Features6(){
             piece together a more solidified solution. 
              </p> 
 
+             <p id="description">
+            The Morphological Chart below effectively lays out the most important characteristics of our 
+            software, and allows us to rennovate our initial solution development process based on changes 
+            and experiences gained through the inevitable passage time and subsequent effort conducted by 
+            our team. 
+             </p>
+
              <br /> 
 
              <h3 id="subject">Morphological Chart</h3> 
@@ -28,12 +35,12 @@ function Features6(){
              <br /> 
 
             <p id="description">
-            As seen from the chart above, a more ideal methodological approach entails our team being able to 
-            use machine learning to analyze sentiment and numerically quantify emotions. A dedicated team of 
-            engineers will continuously optimize the program. To keep customers happy, we will strive to add 
-            quality of life changes and minimize intrusive advertisements. 
+            The Pathosense software boasts an efficient algorithm that uses machine learning
+            to analyze sentiment and numerically quantify emotions. The results are provided rapidly 
+            thanks to our team of dedicated team of engineers who will also continuously optimize the program 
+            over its long lifespan. To keep customers happy and improve the user experience,
+            we will strive to add quality of life changes and minimize intrusive advertisements. 
              </p> 
-
              <br /> 
 
             <hr /> 
