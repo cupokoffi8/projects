@@ -28,7 +28,8 @@ function Features6(){
              <br /> 
 
             <p id="description">
-            Use machine learning to analyze sentiment and numerically quantify emotions. Dedicated team of 
+            As seen from the chart above, a more ideal methodological approach entails our team being able to 
+            use machine learning to analyze sentiment and numerically quantify emotions. A dedicated team of 
             engineers will continuously optimize the program. To keep customers happy, we will strive to add 
             quality of life changes and minimize intrusive advertisements. 
              </p> 
