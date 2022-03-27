@@ -28,11 +28,12 @@ function Features6(){
              <br /> 
 
             <p id="description">
-            Use machine learning to analyze sentiment and numerically quantify emotions. Dedicated team of 
-            engineers will continuously optimize the program. To keep customers happy, we will strive to add 
-            quality of life changes and minimize intrusive advertisements. 
+            The Pathosense software boasts an <u>efficient algorithm</u> that uses <b>machine learning</b>
+            to analyze sentiment and <b>numerically quantify emotions</b>. The results are provided rapidly 
+            thanks to our team of <b>dedicated team of engineers</b> who will also continuously <b>optimize the program</b> 
+            over its <u>long lifespan</u>. To keep customers happy and improve the <u>user experience</u>,
+            we will strive to add <b>quality of life changes</b> and <b>minimize intrusive advertisements</b>. 
              </p> 
-
              <br /> 
 
             <hr /> 
