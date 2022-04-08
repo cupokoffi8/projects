@@ -335,6 +335,14 @@ nav .menu-icon .nav-icon{
     border-style: solid !important;
   } 
 
+  .img4 {
+    display: block; 
+    width: 30vw; 
+    height: auto; 
+    margin-left: auto; 
+    margin-right: auto; 
+  } 
+
   .the-imgs {
     display: flex; 
     justify-content: center !important;
@@ -549,6 +557,9 @@ nav .menu-icon .nav-icon{
       border-width: 1em !important;
       border-style: solid !important;
     } 
+    .img4 {
+      width: 50vw; 
+    }
     .menu{
         display:none;
         position:absolute;

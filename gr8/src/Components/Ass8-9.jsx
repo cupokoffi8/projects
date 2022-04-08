@@ -1,4 +1,5 @@
 import React from "react"; 
+import img1 from "../Images/Ethics/Ethic.png"; 
 
 function Features7(){
     return(
@@ -26,19 +27,30 @@ function Features7(){
             towards their product. Of course, it is not always a bad thing to have favored customers, as many 
             companies rely on repeat business from loyal customers. Rather, the issue becomes more prominent when 
             users are shunned simply due to criticism that is deemed negative by a sentiment analysis software. 
-             </p>
+             </p> 
 
              <br /> 
 
-             <h3 id="subject">Morphological Chart</h3> 
+             <img className="img4" src={img1} /> 
+
+             <br /> 
+
+             <p id="description">
+            We see in the image above that two reviews of opposing emotion are being compared. However, while the 
+            feedback from Carlitos is deemed negative by the sentiment analysis software due to the lexicon involved, 
+            his intention behind the comment is just to provide constructive criticism. Despite his intentions, the 
+            company may automatically favor Nikola due to his feedback that is deemed positive by the recognition 
+            software. 
+             </p> 
+
+             <br /> 
+
+             <h3 id="subject">Product Liability</h3> 
 
             <p id="description">
-            The Pathosense software boasts an efficient algorithm that uses machine learning
-            to analyze sentiment and numerically quantify emotions. The results are provided rapidly 
-            thanks to our team of dedicated team of engineers who will also continuously optimize the program 
-            over its long lifespan. To keep customers happy and improve the user experience,
-            we will strive to add quality of life changes and minimize intrusive advertisements. 
+            
              </p> 
+
              <br /> 
 
             <hr /> 
