@@ -391,6 +391,14 @@ nav .menu-icon .nav-icon{
             background-color: #dadada4d;
             } 
 
+            #features7{
+              /* margin-top:140px ; */
+              width: 100%;
+              display: flex;
+              justify-content: center;
+              background-color: #dadada4d;
+              } 
+
       .blink_me {
         font-size: 1em;
         text-transform: uppercase; 
