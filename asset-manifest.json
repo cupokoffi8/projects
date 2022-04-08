@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.056141df.css",
-    "main.js": "/static/js/main.fb22d9b4.js",
+    "main.css": "/static/css/main.fcf4a051.css",
+    "main.js": "/static/js/main.4b512926.js",
     "static/media/uh.jpg": "/static/media/uh.7b36fcf6b33e897611ca.jpg",
     "static/media/Foodies.png": "/static/media/Foodies.2dd9234a1ff160684e9e.png",
     "static/media/Image.jpg": "/static/media/Image.8b8cfb36ffe6e73d20ff.jpg",
@@ -12,6 +12,7 @@
     "static/media/Phone1.png": "/static/media/Phone1.0f2655340b3c05377ce8.png",
     "static/media/why.jpg": "/static/media/why.e2c59adaf79d54fdde90.jpg",
     "static/media/how.jpg": "/static/media/how.06caf360455e91d407c8.jpg",
+    "static/media/Ethic.png": "/static/media/Ethic.1bd61e69d1c2b329f9c2.png",
     "static/media/where.jpg": "/static/media/where.2c2928494f69ee5067ad.jpg",
     "static/media/who.jpg": "/static/media/who.599df5a8cc9e19725532.jpg",
     "static/media/Phone3.png": "/static/media/Phone3.a599d9aaabe4211917cc.png",
@@ -20,11 +21,11 @@
     "static/media/Pathosense.jpg": "/static/media/Pathosense.56494f905ea09f743d92.jpg",
     "static/media/Pathosense-Bar.png": "/static/media/Pathosense-Bar.4c35052a4159e794e42d.png",
     "index.html": "/index.html",
-    "main.056141df.css.map": "/static/css/main.056141df.css.map",
-    "main.fb22d9b4.js.map": "/static/js/main.fb22d9b4.js.map"
+    "main.fcf4a051.css.map": "/static/css/main.fcf4a051.css.map",
+    "main.4b512926.js.map": "/static/js/main.4b512926.js.map"
   },
   "entrypoints": [
-    "static/css/main.056141df.css",
-    "static/js/main.fb22d9b4.js"
+    "static/css/main.fcf4a051.css",
+    "static/js/main.4b512926.js"
   ]
 }
