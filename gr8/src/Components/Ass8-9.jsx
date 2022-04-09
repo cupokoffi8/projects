@@ -48,8 +48,33 @@ function Features7(){
              <h3 id="subject">Product Liability</h3> 
 
             <p id="description">
-            
+            Pathosense is designed to be used by companies for analytics, and thus, when it comes to liability in the 
+            event of a security/data breach, a common implementation would be a formal agreement that must be made between 
+            the customer and the company on behalf of Pathosense (acting as a middleman) regarding the possible use of 
+            data for analytical purposes. 
              </p> 
+
+             <p id="description">
+            A reasonable comparison to this would be how Apple iPhones will ask users if they are willing to share data 
+            with them as a means of analyzing bugs in order to make necessary improvements. Of course, if these terms and 
+            conditions are not agreed to, the company may or may not grant certain privileges to that customer, depending 
+            on what their goal is. 
+             </p> 
+
+             <p id="description">
+            Were a customer's data to be wrongfully confiscated against the terms of the "contract" that was previously 
+            accepted, the customer is obligated to take legal action, with the previously agreed to "terms and conditions" 
+            acting as the backbone of their dispute. For example, if a company, like Apple, is caught selling your private 
+            data to third-party companies, and this has not been agreed upon in the terms and conditions, the company is 
+            liable to pay a hefty penalty as a result.  
+             </p> 
+
+             <h id="topic">Here is a real example of what could happen in this scenario:</h> 
+            <br /> 
+            <a href="https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook" 
+            className="link">
+            FTC Penalizes Facebook After Privacy Violations
+            </a> 
 
              <br /> 
 
