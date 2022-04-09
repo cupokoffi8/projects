@@ -78,6 +78,23 @@ function Features7(){
 
              <br /> 
 
+             <h3 id="subject">Product Liability</h3> 
+
+            <p id="description">
+            Because Pathosense is strictly software-based, there is no need to be concerned about physical waste at the end of its 
+            lifetime. In fact, as a software, it will last as long is it can be supported by the hardware it is being used on. Even 
+            after it is no longer supported, it can always be revived through necessary software updates. 
+            </p> 
+
+            <p id="description">
+            An example of a software reaching its "end of life" period is a mobile app called Zenonia 3. It was quite popular game on 
+            both the App Store and the Google Play Store, but unfortunately, was discontinued after its software stopped being supported 
+            by the OS it was being offered on. However, instead of being completely abandoned, it was instead rebooted into a sequel 
+            called Zenonia 4, which is still being updated and available to download on iOS and Android today. 
+            </p> 
+
+            <br /> 
+
             <hr /> 
                 
             </div> 
