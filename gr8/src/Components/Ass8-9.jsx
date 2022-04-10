@@ -26,7 +26,13 @@ function Features7(){
             can be used by companies to essentially "pick favorites" based on the emotions different users present 
             towards their product. Of course, it is not always a bad thing to have favored customers, as many 
             companies rely on repeat business from loyal customers. Rather, the issue becomes more prominent when 
-            users are shunned simply due to criticism that is deemed negative by a sentiment analysis software. 
+            users are shunned simply due to criticism that is deemed negative by a sentiment analysis software.
+     
+             </p>
+            <p id="description">
+            A possible way to avoid Patosense's clients favoring happy positive customers would be to keep results anonymous 
+            for individual users. By showing our clients a customer’s review and a username we generated for them (Ex. “User#123”),
+            the customer maintains their privacy while the corporation still gains valuable feedback.
              </p> 
 
              <br /> 
@@ -51,7 +57,8 @@ function Features7(){
             Pathosense is designed to be used by companies for analytics, and thus, when it comes to liability in the 
             event of a security/data breach, a common implementation would be a formal agreement that must be made between 
             the customer and the company on behalf of Pathosense (acting as a middleman) regarding the possible use of 
-            data for analytical purposes. 
+            data for analytical purposes. Pathosense would be affected by an impact to it's reputation and a loss in clients
+            and revenue.
              </p> 
 
              <p id="description">
@@ -78,7 +85,7 @@ function Features7(){
 
              <br /> 
 
-             <h3 id="subject">Product Liability</h3> 
+             <h3 id="subject"> Social Impacty</h3> 
 
             <p id="description">
             Because Pathosense is strictly software-based, there is no need to be concerned about physical waste at the end of its 
