@@ -65,7 +65,7 @@ function Features7(){
             A reasonable comparison to this would be how Apple iPhones will ask users if they are willing to share data 
             with them as a means of analyzing bugs in order to make necessary improvements. Of course, if these terms and 
             conditions are not agreed to, the company may or may not grant certain privileges to that customer, depending 
-            on what their goal is. 
+            on what their goal is. The customer would need to make the decision if those privileges are worth their privacy. 
              </p> 
 
              <p id="description">
@@ -85,12 +85,14 @@ function Features7(){
 
              <br /> 
 
-             <h3 id="subject"> Social Impacty</h3> 
+             <h3 id="subject"> Social Impact</h3> 
 
             <p id="description">
             Because Pathosense is strictly software-based, there is no need to be concerned about physical waste at the end of its 
             lifetime. In fact, as a software, it will last as long is it can be supported by the hardware it is being used on. Even 
-            after it is no longer supported, it can always be revived through necessary software updates. 
+            after it is no longer supported, it can always be revived through necessary software updates. In the event our group chooses
+            stop working on Pathosense and shutdown our service, we can either sell it to another company or release it as open source
+            for everyone to benefit.
             </p> 
 
             <p id="description">
