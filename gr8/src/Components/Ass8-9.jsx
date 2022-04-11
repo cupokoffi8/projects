@@ -26,7 +26,13 @@ function Features7(){
             can be used by companies to essentially "pick favorites" based on the emotions different users present 
             towards their product. Of course, it is not always a bad thing to have favored customers, as many 
             companies rely on repeat business from loyal customers. Rather, the issue becomes more prominent when 
-            users are shunned simply due to criticism that is deemed negative by a sentiment analysis software. 
+            users are shunned simply due to criticism that is deemed negative by a sentiment analysis software.
+     
+             </p>
+            <p id="description">
+            A possible way to avoid Patosense's clients favoring happy positive customers would be to keep results anonymous 
+            for individual users. By showing our clients a customer’s review and a username we generated for them (Ex. “User#123”),
+            the customer maintains their privacy while the corporation still gains valuable feedback.
              </p> 
 
              <br /> 
@@ -51,14 +57,15 @@ function Features7(){
             Pathosense is designed to be used by companies for analytics, and thus, when it comes to liability in the 
             event of a security/data breach, a common implementation would be a formal agreement that must be made between 
             the customer and the company on behalf of Pathosense (acting as a middleman) regarding the possible use of 
-            data for analytical purposes. 
+            data for analytical purposes. Pathosense would be affected by an impact to it's reputation and a loss in clients
+            and revenue.
              </p> 
 
              <p id="description">
             A reasonable comparison to this would be how Apple iPhones will ask users if they are willing to share data 
             with them as a means of analyzing bugs in order to make necessary improvements. Of course, if these terms and 
             conditions are not agreed to, the company may or may not grant certain privileges to that customer, depending 
-            on what their goal is. 
+            on what their goal is. The customer would need to make the decision if those privileges are worth their privacy. 
              </p> 
 
              <p id="description">
@@ -78,12 +85,14 @@ function Features7(){
 
              <br /> 
 
-             <h3 id="subject">Social Impact</h3> 
+             <h3 id="subject"> Social Impact</h3> 
 
             <p id="description">
             Because Pathosense is strictly software-based, there is no need to be concerned about physical waste at the end of its 
             lifetime. In fact, as a software, it will last as long is it can be supported by the hardware it is being used on. Even 
-            after it is no longer supported, it can always be revived through necessary software updates. 
+            after it is no longer supported, it can always be revived through necessary software updates. In the event our group chooses
+            stop working on Pathosense and shutdown our service, we can either sell it to another company or release it as open source
+            for everyone to benefit.
             </p> 
 
             <p id="description">
