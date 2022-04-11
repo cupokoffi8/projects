@@ -78,7 +78,7 @@ function Features7(){
 
              <br /> 
 
-             <h3 id="subject">Product Liability</h3> 
+             <h3 id="subject">Social Impact</h3> 
 
             <p id="description">
             Because Pathosense is strictly software-based, there is no need to be concerned about physical waste at the end of its 
