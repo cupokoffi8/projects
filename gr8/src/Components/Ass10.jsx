@@ -21,6 +21,15 @@ function Features8(){
 
             <br /> 
 
+            <p id="description">
+             Alternatives to the machine learning based approach to sentiment analysis of PathoSense include:
+             Corpus Based (Statistical): Label sentences as positive or negative based on the frequency of emotional language.
+             Corpus Based (Semantic): Assign values to individual words based on their synonyms and antonyms.
+             Review Sites: Use data from review sites instead of analyzing consumers directly.
+             Dictionary Based: Create a dictionary from online sources and expand until no other words can added.
+             </p> 
+
+            <br /> 
              <p>
                  tables will go hereeeeee
              </p>
