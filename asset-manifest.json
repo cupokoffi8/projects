@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cb253433.css",
-    "main.js": "/static/js/main.a6a043ac.js",
+    "main.js": "/static/js/main.f6e603a7.js",
     "static/media/uh.jpg": "/static/media/uh.7b36fcf6b33e897611ca.jpg",
     "static/media/Foodies.png": "/static/media/Foodies.2dd9234a1ff160684e9e.png",
     "static/media/Image.jpg": "/static/media/Image.8b8cfb36ffe6e73d20ff.jpg",
@@ -24,10 +24,10 @@
     "static/media/Pathosense-Bar.png": "/static/media/Pathosense-Bar.4c35052a4159e794e42d.png",
     "index.html": "/index.html",
     "main.cb253433.css.map": "/static/css/main.cb253433.css.map",
-    "main.a6a043ac.js.map": "/static/js/main.a6a043ac.js.map"
+    "main.f6e603a7.js.map": "/static/js/main.f6e603a7.js.map"
   },
   "entrypoints": [
     "static/css/main.cb253433.css",
-    "static/js/main.a6a043ac.js"
+    "static/js/main.f6e603a7.js"
   ]
 }
