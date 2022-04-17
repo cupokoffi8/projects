@@ -1,21 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.cb253433.css",
-    "main.js": "/static/js/main.f6e603a7.js",
+    "main.js": "/static/js/main.03b62e20.js",
     "static/media/uh.jpg": "/static/media/uh.7b36fcf6b33e897611ca.jpg",
     "static/media/Foodies.png": "/static/media/Foodies.2dd9234a1ff160684e9e.png",
     "static/media/Image.jpg": "/static/media/Image.8b8cfb36ffe6e73d20ff.jpg",
     "static/media/new-morph.png": "/static/media/new-morph.6d6401eced3a1da06fa7.png",
     "static/media/Team.png": "/static/media/Team.de90d0349d34621ef76a.png",
-    "static/media/Factors.png": "/static/media/Factors.1fed2792c24c512f3e21.png",
+    "static/media/Evaluation.png": "/static/media/Evaluation.50ce53e415c0e57970cc.png",
+    "static/media/Factor.png": "/static/media/Factor.8a00abd9881783e66464.png",
     "static/media/when.jpeg": "/static/media/when.f8bc29220e928e10952f.jpeg",
     "static/media/Phone4.png": "/static/media/Phone4.b5d6bf22a80211e0137e.png",
+    "static/media/Decision.png": "/static/media/Decision.b1f2340ddb5d21ef10dc.png",
     "static/media/what.jpeg": "/static/media/what.fb9feac85678328ea766.jpeg",
     "static/media/Phone1.png": "/static/media/Phone1.0f2655340b3c05377ce8.png",
+    "static/media/Scale.png": "/static/media/Scale.9d2c066abceede54e199.png",
     "static/media/why.jpg": "/static/media/why.e2c59adaf79d54fdde90.jpg",
     "static/media/how.jpg": "/static/media/how.06caf360455e91d407c8.jpg",
     "static/media/Ethic.png": "/static/media/Ethic.1bd61e69d1c2b329f9c2.png",
     "static/media/where.jpg": "/static/media/where.2c2928494f69ee5067ad.jpg",
+    "static/media/Weight.png": "/static/media/Weight.175e6e2fcaaaae508d14.png",
     "static/media/who.jpg": "/static/media/who.599df5a8cc9e19725532.jpg",
     "static/media/Phone3.png": "/static/media/Phone3.a599d9aaabe4211917cc.png",
     "static/media/Model.jpg": "/static/media/Model.0fe60f854fe41e220815.jpg",
@@ -24,10 +28,10 @@
     "static/media/Pathosense-Bar.png": "/static/media/Pathosense-Bar.4c35052a4159e794e42d.png",
     "index.html": "/index.html",
     "main.cb253433.css.map": "/static/css/main.cb253433.css.map",
-    "main.f6e603a7.js.map": "/static/js/main.f6e603a7.js.map"
+    "main.03b62e20.js.map": "/static/js/main.03b62e20.js.map"
   },
   "entrypoints": [
     "static/css/main.cb253433.css",
-    "static/js/main.f6e603a7.js"
+    "static/js/main.03b62e20.js"
   ]
 }
