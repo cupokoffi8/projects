@@ -1,6 +1,10 @@
 import React from "react"; 
 import img1 from "../Images/Design/Team.png"; 
-import img2 from "../Images/Design/Factors.png";
+import img2 from "../Images/Design/Factor.png"; 
+import img3 from "../Images/Design/Weight.png"; 
+import img4 from "../Images/Design/Scale.png"; 
+import img5 from "../Images/Design/Decision.png"; 
+import img6 from "../Images/Design/Evaluation.png"; 
 
 function Features8(){
     return(
@@ -11,23 +15,7 @@ function Features8(){
             
             <br /> 
 
-            <h3 id="subject">Revised KT Analysis</h3> 
-
-            <p id="description">
-            After narrowing down our design path with the previously completed Morphological Chart, we 
-            can revisit the KT Analysis tables that were done at the beginning of our Problem Formulation 
-            process: 
-             </p> 
-
-            <br /> 
-
-             <p>
-                 tables will go hereeeeee
-             </p>
-
-             <br /> 
-
-             <h3 id="subject">Weighing Design Factors</h3> 
+             <h3 id="subject">Rank-Ordering Design Factors</h3> 
 
             <p id="description">
             Using Microsoft Excel, a set of tables collecting preferences from each of our teammates was 
@@ -50,6 +38,45 @@ function Features8(){
             <br/> 
 
             <img className="img2" src={img2} /> 
+
+             <br /> 
+
+             <h3 id="subject">Weighing Design Factors</h3> 
+
+             <p id="description">
+            The desireable factors can be weighed on a scale from 0 to 100, similar to a typical grading scale, 
+            only in this scenario, the importance of each factor is measured: 
+            </p> 
+
+            <br/> 
+
+            <img className="img4" src={img3} /> 
+
+            <br /> 
+
+            <img className="img2" src={img4} /> 
+
+            <br /> 
+
+            <h3 id="subject">Revised KT Analysis</h3> 
+
+            <p id="description">
+            After narrowing down our design path with the previously completed Morphological Chart, we 
+            can revisit the KT Analysis tables that were done at the beginning of our Problem Formulation 
+            process: 
+            </p> 
+
+            <br /> 
+
+            <h id="topic">KT Decision Matrix:</h> 
+            <br /> 
+            <img className="img2" src={img5} /> 
+
+            <br /> 
+
+            <h id="topic">KT Evaluation Matrix:</h> 
+            <br /> 
+            <img className="img2" src={img6} /> 
 
              <br /> 
 
