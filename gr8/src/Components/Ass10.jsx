@@ -38,7 +38,7 @@ function Features8(){
 
              <br /> 
 
-             <img className="img4" src={img1} /> 
+             <img className="img2" src={img1} /> 
 
              <br /> 
 
@@ -49,7 +49,7 @@ function Features8(){
 
             <br/> 
 
-            <img className="img4" src={img2} /> 
+            <img className="img2" src={img2} /> 
 
              <br /> 
 
