@@ -7,6 +7,7 @@ import Features4 from "./Components/Ass5";
 import Features5 from "./Components/Ass6";
 import Features6 from "./Components/Ass7";
 import Features7 from "./Components/Ass8-9";
+import Features8 from "./Components/Ass10";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Features5 /> 
       <Features6 /> 
       <Features7 /> 
+      <Features8 /> 
     </div>
   );
 }

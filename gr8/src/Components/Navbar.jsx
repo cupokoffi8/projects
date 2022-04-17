@@ -22,6 +22,7 @@ function Navbar(){
                     <li><Link to='features5' className='active' smooth={true} duration={1000}>Abstraction and Modeling</Link></li>
                     <li><Link to='features6' className='active' smooth={true} duration={1000}>Synthesis</Link></li> 
                     <li><Link to='features7' className='active' smooth={true} duration={1000}>Ethics and Liability</Link></li> 
+                    <li><Link to='features8' className='active' smooth={true} duration={1000}>Design Analysis</Link></li> 
                 </ul>
             </nav>
         </>
