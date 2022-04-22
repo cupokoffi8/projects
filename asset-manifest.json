@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.a40d0b07.css",
-    "main.js": "/static/js/main.06fb247e.js",
+    "main.js": "/static/js/main.c59dd339.js",
     "static/media/uh.jpg": "/static/media/uh.7b36fcf6b33e897611ca.jpg",
     "static/media/Foodies.png": "/static/media/Foodies.2dd9234a1ff160684e9e.png",
     "static/media/Image.jpg": "/static/media/Image.8b8cfb36ffe6e73d20ff.jpg",
     "static/media/DesignTree.jpg": "/static/media/DesignTree.cb2669b73840d0059480.jpg",
     "static/media/new-morph.png": "/static/media/new-morph.6d6401eced3a1da06fa7.png",
+    "static/media/TrainingTree.jpeg": "/static/media/TrainingTree.e2c6d070f240444fcfd8.jpeg",
     "static/media/Team.png": "/static/media/Team.de90d0349d34621ef76a.png",
     "static/media/Evaluation.png": "/static/media/Evaluation.50ce53e415c0e57970cc.png",
     "static/media/Factor.png": "/static/media/Factor.8a00abd9881783e66464.png",
@@ -29,10 +30,10 @@
     "static/media/Pathosense-Bar.png": "/static/media/Pathosense-Bar.4c35052a4159e794e42d.png",
     "index.html": "/index.html",
     "main.a40d0b07.css.map": "/static/css/main.a40d0b07.css.map",
-    "main.06fb247e.js.map": "/static/js/main.06fb247e.js.map"
+    "main.c59dd339.js.map": "/static/js/main.c59dd339.js.map"
   },
   "entrypoints": [
     "static/css/main.a40d0b07.css",
-    "static/js/main.06fb247e.js"
+    "static/js/main.c59dd339.js"
   ]
 }
