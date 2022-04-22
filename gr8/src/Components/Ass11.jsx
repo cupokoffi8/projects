@@ -1,5 +1,6 @@
 import React from "react"; 
 import img1 from "../Images/Design/DesignTree.jpg"; 
+import img2 from "../Images/Design/TrainingTree.jpeg"; 
 
 function Features9(){
     return(
@@ -32,6 +33,23 @@ function Features9(){
              sentiment of the seed word(s) that were processed and indentified under specific sentiment 
              categories. Collectively, the review sentence (given that it was subjective) is classified 
              based on the sentiment behind its implementation. 
+             </p> 
+
+             <br /> 
+
+             <h3 id="subject">Sentiment Callibration</h3> 
+
+             <img className="img2" src={img2} />
+
+             <p id="description">
+             The above diagram shows how the software would be callibrated to more accurately differentiate 
+             between different reviews of varying sentiment. While the software is intended to work like 
+             the human brain in depincting emotions, it is extremely difficult to rival the emotional 
+             awareness of our brains, and thus, the software would require an intensified callibration 
+             process. Unfortunately, there is no quick and easy way to do this as of right now. An ideal 
+             method is to provide template sentences with predetermined sentiment classifications, and 
+             use machine learning techniques to allow the software to get acclimated to specific word 
+             features based on the provided template reviews. 
              </p> 
 
              <br /> 
