@@ -1,6 +1,7 @@
 import React from "react"; 
 import img1 from "../Images/Design/DesignTree.jpg"; 
 import img2 from "../Images/Design/TrainingTree.jpeg"; 
+import img3 from "../Images/Design/gant.png";
 
 function Features9(){
     return(
@@ -55,6 +56,14 @@ function Features9(){
              <br /> 
 
             <hr /> 
+
+            <br /> 
+
+            <h1 id="title">Gantt Chart</h1> 
+            <hr className="divider" /> 
+
+            <br /> 
+            <img className="img2" src={img3} />
                 
             </div> 
         </div> 
