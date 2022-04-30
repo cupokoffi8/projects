@@ -24,6 +24,7 @@ function Navbar(){
                     <li><Link to='features7' className='active' smooth={true} duration={1000}>Ethics and Liability</Link></li> 
                     <li><Link to='features8' className='active' smooth={true} duration={1000}>Design Analysis</Link></li> 
                     <li><Link to='features9' className='active' smooth={true} duration={1000}>Design Diagrams</Link></li> 
+                    <li><Link to='features10' className='active' smooth={true} duration={1000}>Gantt Chart</Link></li> 
                 </ul>
             </nav>
         </>

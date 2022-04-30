@@ -58,12 +58,6 @@ function Features9(){
             <hr /> 
 
             <br /> 
-
-            <h1 id="title">Gantt Chart</h1> 
-            <hr className="divider" /> 
-
-            <br /> 
-            <img className="img2" src={img3} />
                 
             </div> 
         </div> 
