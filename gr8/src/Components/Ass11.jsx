@@ -7,7 +7,7 @@ function Features9(){
     return(
         <div id="features9"> 
         <div className='features-text'>
-            <h1 id="title">Design Diagrams</h1> 
+            <h1 id="title">Design Implementation</h1> 
             <hr className="divider" /> 
             
             <br /> 
@@ -54,6 +54,26 @@ function Features9(){
              </p> 
 
              <br /> 
+
+             <h3 id="subject">Pathosense Gantt Chart</h3> 
+
+             <img className="img2" src={img3} /> 
+
+             <br /> 
+
+             <h3 id="subject">Senior Design Plan</h3>
+
+             <p id="description-list-big"> 
+                • Find an advisor from ECE, CS, or PEP departments<br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~ Look into industry sponsored projects<br /> 
+                • Draft an in-depth roadmap for the year<br />
+                • Interview the potential customers of our project<br />
+                • Create a functional prototype<br /> 
+                • Gather feedback from more customers and improve the design<br /> 
+                • Keep implementing changes until presenting at the Annual Innovation Expo 
+                </p> 
+
+            <br /> 
 
             <hr /> 
 
