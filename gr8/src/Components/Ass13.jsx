@@ -10,7 +10,15 @@ function Features11(){
             
             <br /> 
 
-             <img className="img2" src={img1} /> 
+             <p id="description-list-big"> 
+                • Find an advisor from ECE, CS, or PEP departments<br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~ Look into industry sponsored projects<br /> 
+                • Draft an in-depth roadmap for the year<br />
+                • Interview the potential customers of our project<br />
+                • Create a functional prototype<br /> 
+                • Gather feedback from more customers and improve the design<br /> 
+                • Keep implementing changes until presenting at the Annual Innovation Expo 
+                </p>
 
              <br /> 
 

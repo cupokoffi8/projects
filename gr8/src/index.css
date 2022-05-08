@@ -524,6 +524,22 @@ nav .menu-icon .nav-icon{
     text-align: left;
     margin-left: 10px; 
   }
+  #description-list-big {
+    color:rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: left; 
+    font-size: 28px !important;
+    text-align: left;
+    margin-left: 10px; 
+  }
+  #bullet {
+    color:rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: left; 
+    font-size: 24px !important;
+    text-align: left;
+    margin-left: 15px; 
+  }
   #description-note {
     color:rgb(0, 0, 0); 
     display: flex; 
