@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.648c9e58.css",
-    "main.js": "/static/js/main.7237a38d.js",
+    "main.css": "/static/css/main.a0b69df0.css",
+    "main.js": "/static/js/main.14bbb698.js",
     "static/media/uh.jpg": "/static/media/uh.7b36fcf6b33e897611ca.jpg",
     "static/media/Foodies.png": "/static/media/Foodies.2dd9234a1ff160684e9e.png",
     "static/media/Image.jpg": "/static/media/Image.8b8cfb36ffe6e73d20ff.jpg",
@@ -31,11 +31,11 @@
     "static/media/Pathosense.jpg": "/static/media/Pathosense.56494f905ea09f743d92.jpg",
     "static/media/Pathosense-Bar.png": "/static/media/Pathosense-Bar.4c35052a4159e794e42d.png",
     "index.html": "/index.html",
-    "main.648c9e58.css.map": "/static/css/main.648c9e58.css.map",
-    "main.7237a38d.js.map": "/static/js/main.7237a38d.js.map"
+    "main.a0b69df0.css.map": "/static/css/main.a0b69df0.css.map",
+    "main.14bbb698.js.map": "/static/js/main.14bbb698.js.map"
   },
   "entrypoints": [
-    "static/css/main.648c9e58.css",
-    "static/js/main.7237a38d.js"
+    "static/css/main.a0b69df0.css",
+    "static/js/main.14bbb698.js"
   ]
 }
