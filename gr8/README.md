@@ -1,1 +1,1 @@
-Collaborators: Alex Gaskins, Carlitos Rodriguez, Nikola Ciric and Daniel Goldberg 
+Collaborators: Alex Gaskins, Carlitos Rodriguez, and Nikola Ciric.
